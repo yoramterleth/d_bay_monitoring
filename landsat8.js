@@ -1,4 +1,5 @@
-// rework for optical imagery landsat 8 
+// this gets water reflectance values in the NIR band for a user delimited area, and plots them over time.
+// script based on version made for sentinel 3 imagery, reworked to work with the LS8 collection.  
 // define time period to look at 
 var startDate = ee.Date('2015-01-01')//('2020-02-15') //('2021-02-15')
 var endDate = ee.Date('2022-06-20') //('2020-11-15') //('2021-09-20')
