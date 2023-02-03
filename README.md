@@ -6,4 +6,4 @@ various scripts looking at discharge on Sit Kusa
 
 - the various earth engine scripts allow to export csv files. These can be downloaded from google drive and used with matlab. 
 
-- the compila_and_plot.m script can be used to assemble the csvs from earth engine and plot them. It relies on a lot of helper functions, the ones that I generated myself are included in this repo and should at least compile the data. Other helpers for plotting etc. are not authored by me and not included here, but should be easy to find online if needed (or let me know and I can share the refs). 
+- the compile_and_plot.m script can be used to assemble the csvs from earth engine and plot them. It relies on a lot of helper functions, the ones that I generated myself are included in this repo and should at least compile the data. Other helpers for plotting etc. are not authored by me and not included here, but should be easy to find online if needed (or let me know and I can share the refs). 
