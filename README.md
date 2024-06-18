@@ -1,6 +1,6 @@
 # SK d_bay_monitoring
 
-various scripts looking at discharge on Sit Kusa. These were used for a mansucript submitted to *Journal of Glaciology*. 
+various scripts looking at discharge on Sit Kusa. These were used for Terleth et al. (2024), available at https://doi.org/10.1017/jog.2024.38. 
 
 - the somewhat unfortunate names for the individual scripts refer to the platform they pull data from. All these scripts build timeseries of various water surface properties within a user defined area, in our case in front of the S'it' Kus'a terminus. 
 
